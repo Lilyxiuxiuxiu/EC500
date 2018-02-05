@@ -24,5 +24,5 @@ py vision.py
 ```
 9. DONE! Check for output.mp4 as the video of the images and labels.json as the decription of your images
 
-
-Thank you! For any questions, feel free to email me at glxlily@bu.edu
+--- 
+#### Thank you! For any questions, feel free to email me at glxlily@bu.edu
