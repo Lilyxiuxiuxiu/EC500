@@ -1,6 +1,6 @@
 # API Homework
 
-This is the API homework for EC500. This project grabs images from tweet and generate a video containing the images using FFMpeg API and also a json file that uses Google Vision API to recongize products in the images.
+This is the API homework for EC500. This project grabs images from twitter and generates a video containing the images using FFMpeg API and also a json file that uses Google Vision API to recongize products in the images.
 
 ### How to use
 1. Download tweetDownload.py and vision.py from this folder
