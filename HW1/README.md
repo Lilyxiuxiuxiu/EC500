@@ -5,11 +5,11 @@ This is the API homework for EC500. This project grabs images from tweet and gen
 ### How to use
 1. Download tweetDownload.py and vision.py from this folder
 2. Install [Tweepy](https://github.com/tweepy/tweepy)
-3. Install FFMpeg using
+3. Install FFMpeg using HomeBrew
 ```
 brew ffmpeg
 ```
-4. Install Wget using
+4. Install Wget using Pip
 ```
 pip wget
 ```
