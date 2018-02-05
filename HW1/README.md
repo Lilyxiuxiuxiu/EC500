@@ -25,5 +25,5 @@ python2 HW1API.py
 Note: If you are using Windows OS, comment line 75 in HW1API.py and uncomment line 74.
 
 --- 
-#### Worked with Ayako Shimuzu on this mini project
+Worked with Ayako Shimuzu on this mini project
 #### Thank you! For any questions, feel free to email me at glxlily@bu.edu
