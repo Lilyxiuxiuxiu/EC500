@@ -9,10 +9,10 @@ import google.cloud.vision #import types
 
 
 #Twitter API credentials
-consumer_key = "1jeg8dzdZJgNRdzPWApN9pYsr"
-consumer_secret = "ME9Cq2LigsjhapD0LEPpvShR3gauVh51mWG4GdXDl5soawBiOn"
-access_key = "371946503-yxmD86dnNrauaca9TE5OFC0QBdU44GyNRm11yZSu"
-access_secret = "8IRTDS9ddfPESbxM0KwbiKffR0pn4jTgZo2o6M5gQFRwi"
+consumer_key = 
+consumer_secret = 
+access_key = 
+access_secret = 
 
 
 
