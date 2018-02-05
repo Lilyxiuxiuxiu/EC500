@@ -1,4 +1,4 @@
-# API Homework
+# API Homework #1
 
 This is the API homework for EC500. This project grabs images from twitter and generates a video containing the images using FFMpeg API and also a json file that uses Google Vision API to recongize products in the images.
 
