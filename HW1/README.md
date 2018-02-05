@@ -22,7 +22,7 @@ python2 HW1API.py
 ```
 9. DONE! Check for outputvid.mp4 as the video of the images and labels.json as the decription of your images
 
-Note: If you are using Windows OS, comment line 75 in HW1API.py and uncomment line 74.
+Note: This API is developed on macOS10.13.3. If you are using Windows OS, comment line 75 in HW1API.py and uncomment line 74.
 
 --- 
 Worked with Ayako Shimuzu on this mini project
