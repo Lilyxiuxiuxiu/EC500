@@ -9,9 +9,9 @@ This is the API homework for EC500. This project grabs images from tweet and gen
 ```
 brew ffmpeg
 ```
-4. Install Wget using Pip
+4. Install Wget using Pip install
 ```
-pip wget
+pip install wget
 ```
 5. Get your credentials and access token from your twitter account by following steps [here](https://www.slickremix.com/docs/how-to-get-api-keys-and-tokens-for-twitter/)
 6. Put your token information into tweetDownload.py
