@@ -1,0 +1,114 @@
+{
+    "image1.jpg": [
+        {
+            "description": "facial hair", 
+            "mid": "/m/0ds5b", 
+            "score": "0.773891866207", 
+            "topicality": "0.773891866207"
+        }, 
+        {
+            "description": "shoe", 
+            "mid": "/m/06rrc", 
+            "score": "0.62102162838", 
+            "topicality": "0.62102162838"
+        }
+    ], 
+    "image2.jpg": [
+        {
+            "description": "green", 
+            "mid": "/m/038hg", 
+            "score": "0.977226555347", 
+            "topicality": "0.977226555347"
+        }, 
+        {
+            "description": "text", 
+            "mid": "/m/07s6nbt", 
+            "score": "0.965629935265", 
+            "topicality": "0.965629935265"
+        }
+    ], 
+    "image3.jpg": [
+        {
+            "description": "phenomenon", 
+            "mid": "/m/0gjyk", 
+            "score": "0.754764914513", 
+            "topicality": "0.754764914513"
+        }, 
+        {
+            "description": "night", 
+            "mid": "/m/01d74z", 
+            "score": "0.745986998081", 
+            "topicality": "0.745986998081"
+        }
+    ], 
+    "image4.jpg": [
+        {
+            "description": "outerwear", 
+            "mid": "/m/047vlmn", 
+            "score": "0.780303001404", 
+            "topicality": "0.780303001404"
+        }, 
+        {
+            "description": "fun", 
+            "mid": "/m/0ds99lh", 
+            "score": "0.705485701561", 
+            "topicality": "0.705485701561"
+        }
+    ], 
+    "image5.jpg": [
+        {
+            "description": "advertising", 
+            "mid": "/m/011s0", 
+            "score": "0.859393417835", 
+            "topicality": "0.859393417835"
+        }, 
+        {
+            "description": "building", 
+            "mid": "/m/0cgh4", 
+            "score": "0.731117010117", 
+            "topicality": "0.731117010117"
+        }
+    ], 
+    "image6.jpg": [
+        {
+            "description": "photograph", 
+            "mid": "/m/068jd", 
+            "score": "0.949811816216", 
+            "topicality": "0.949811816216"
+        }, 
+        {
+            "description": "tourism", 
+            "mid": "/m/07bxq", 
+            "score": "0.724496543407", 
+            "topicality": "0.724496543407"
+        }
+    ], 
+    "image7.jpg": [
+        {
+            "description": "stage", 
+            "mid": "/m/04_5hy", 
+            "score": "0.678374171257", 
+            "topicality": "0.678374171257"
+        }, 
+        {
+            "description": "darkness", 
+            "mid": "/m/01kyr8", 
+            "score": "0.606238663197", 
+            "topicality": "0.606238663197"
+        }
+    ], 
+    "image8.jpg": [
+        {
+            "description": "event", 
+            "mid": "/m/081pkj", 
+            "score": "0.809249520302", 
+            "topicality": "0.809249520302"
+        }, 
+        {
+            "description": "performance", 
+            "mid": "/m/01gq53", 
+            "score": "0.654730916023", 
+            "topicality": "0.654730916023"
+        }
+    ]
+}
